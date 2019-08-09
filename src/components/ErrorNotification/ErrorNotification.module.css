@@ -1,0 +1,13 @@
+.errorNotification {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 50vw;
+  height: 50vh;
+  transform: translate(50%, 50%);
+  z-index: 999;
+  background-color: rgba(0, 0, 0, 0.9);
+  color: #ff0000;
+  text-align: center;
+  line-height: 50vh;
+}
